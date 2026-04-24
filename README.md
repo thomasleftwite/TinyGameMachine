@@ -12,13 +12,14 @@ An Engineer Cafe workshop starts from May 17th 2026.
 
 ## コンテンツ(Contents)
 
-- [Circuit Diagram]()
-- [Sample Program]()
+- [Circuit Diagram](https://wokwi.com/projects/459480719752357889)
+- [Sample Program](https://wokwi.com/projects/459480719752357889)
 - 3D Models
 
 ## 営利目的の利用について (Commercial Use)
 
-本ソフトウェアは、営利団体によるイベントでの利用や、本ソフトウェアを用いたサービスの提供（料金徴収を含む）を歓迎します。事前の連絡は不要ですが、ご活用いただけた際はメンションやStarをいただけると励みになります。
+本ソフトウェアは、営利団体によるイベントでの利用や、本ソフトウェアを用いたサービスの提供（料金徴収を含む）を歓迎します。<BR>
+事前の連絡は不要ですが、ご活用いただけた際はメンションやStarをいただけると励みになります。
 
 ## ライセンスと商標について (License & Trademark)
 
@@ -27,6 +28,23 @@ An Engineer Cafe workshop starts from May 17th 2026.
 - 改変・再配布が可能です。
 - 改変して公開する場合は、同じGPL v3ライセンスを適用する必要があります。
 - ソースコードの販売（コードそのものを商品として売ること）は、ライセンスの性質上、実質的に禁止されます。
+
+### デュアルライセンスの案内 (Dual Licensing)
+本ソフトウェアを以下の目的で利用される場合は、別途有料の商用ライセンス契約が必要です。
+- ソースコードを公開せずに（クローズドな形で）製品に組み込みたい場合
+- GPL v3の制約を受けない商用サポートを希望する場合
+
+詳細は下記の作者まで、お問い合わせください。
+
+---
+
+**Dual Licensing(English):**
+This project is licensed under the GNU GPL v3.0. <BR>
+However, for users who cannot comply with the terms of the GPL (such as the requirement to disclose source code), a separate Commercial License is available.<BR>
+Please contact the following Author for licensing inquiries and quotes if you intend to use this software under any of the following conditions:
+- Proprietary/Closed-Source Use: If you wish to integrate this code into a product without releasing your own source code.
+- Redistribution as a Product: If you wish to sell the software as part of a commercial package without the restrictions of the GPL.
+- Enterprise Support: If your organization requires a formal license agreement, warranties, or dedicated support.
 
 ### 商標・名称の保護 (Trademark Notice)
 "**Wajiro Information Systems**" および関連するロゴは、作者の商標または登録名称です。
